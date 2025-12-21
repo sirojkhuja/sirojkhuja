@@ -1,20 +1,31 @@
 # Sam — Software Architect & Engineer
 
-I am a software engineer with a strong focus on scalable systems,
-clean architecture, and long-term maintainability.
+I am a software architect and engineer focused on designing and maintaining
+scalable systems with an emphasis on clean architecture, reliability,
+and long-term maintainability.
 
 ## 🛠 Core Expertise
 - Backend Engineering (Java, Python, Go)
+- Distributed Systems & Microservices
 - Cloud & DevOps (Docker, Kubernetes, AWS)
-- System Design & Architecture
-- CI/CD and Automation
+- CI/CD, Automation, and Platform Engineering
 
-## 📌 Featured Projects
-- **Project Alpha** — Distributed microservices platform
-- **Project Beta** — Event-driven system using Kafka
+## 🔧 Open Source & Engineering Contributions
+- **1,900+ contributions in the last year**
+- Active contributor across **140+ repositories**
+- Primary focus on:
+  - Code contributions
+  - Architectural improvements
+  - Maintenance and refactoring
+- Consistent long-term contribution history
 
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirojkhuja&show_icons=true)
+> Contribution activity reflects ongoing engineering work across
+multiple production and open-source codebases.
+
+## 📌 Selected Work
+- **System Modernization Initiatives** — Refactoring and scaling legacy services
+- **Event-Driven Platforms** — Kafka-based architectures for high-throughput systems
+- **Infrastructure Automation** — CI/CD pipelines and containerized deployments
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/sirojkhuja

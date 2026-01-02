@@ -1,32 +1,31 @@
-# Sam — Software Architect & Engineer
+# Sam — Software Engineer
 
-I am a software architect and engineer focused on designing and maintaining
-scalable systems with an emphasis on clean architecture, reliability,
-and long-term maintainability.
+I’m a software engineer focused on **building, launching, and maintaining
+production products**. Most of my work is hands-on: writing code, shipping
+features, fixing issues, and supporting systems after they go live.
 
-## 🛠 Core Expertise
-- Backend Engineering (Java, Python, Go)
-- Distributed Systems & Microservices
-- Cloud & DevOps (Docker, Kubernetes, AWS)
-- CI/CD, Automation, and Platform Engineering
+I value pragmatic solutions, clear ownership, and systems that are easy to
+operate and evolve.
 
-## 🔧 Open Source & Engineering Contributions
-- **1,900+ contributions in the last year**
-- Active contributor across **140+ repositories**
-- Primary focus on:
-  - Code contributions
-  - Architectural improvements
-  - Maintenance and refactoring
-- Consistent long-term contribution history
+## What I Work On
+- Building backend services and APIs
+- Developing product features end-to-end
+- Launching new services and iterating in production
+- Improving existing systems through refactoring and cleanup
 
-> Contribution activity reflects ongoing engineering work across
-multiple production and open-source codebases.
+## Tech Stack
+- Frontend: React, Next.js
+- Backend: Go, Node.js, PHP
+- Infrastructure: Docker, Docker Compose
+- Tooling: Make
+- Delivery: CI/CD pipelines and automation
 
-## 📌 Selected Work
-- **System Modernization Initiatives** — Refactoring and scaling legacy services
-- **Event-Driven Platforms** — Kafka-based architectures for high-throughput systems
-- **Infrastructure Automation** — CI/CD pipelines and containerized deployments
+## Selected Experience
+- **Product launches** — implementing services from zero to production
+- **Backend systems** — APIs and internal services used in live products
+- **Production ownership** — debugging, fixing, and improving running systems
+- **Incremental improvements** — evolving codebases without large rewrites
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://linkedin.com/in/sirojkhuja
 - Email: sirojxuja@email.com

@@ -28,4 +28,4 @@ operate and evolve.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/sirojkhuja
-- Email: sirojxuja@email.com
+- Email: sirojxuja@gmail.com
